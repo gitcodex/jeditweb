@@ -5,7 +5,7 @@ public class HelloWorld {
 		return "Hello World, " + name;
 	}
 	
-	public String hello123(String fname, String lname) {
+	public String meet(String fname, String lname) {
 		return "Hello World, " + fname + " " + lname;
 	}	
 }
