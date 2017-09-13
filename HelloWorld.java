@@ -6,6 +6,7 @@ public class HelloWorld {
 	}
 	
 	public String greetAdd(String fname, String lname) {
+		hello
 		return "Hello World, " + fname + " " + lname;
 	}	
 }
