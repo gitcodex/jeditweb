@@ -2,7 +2,7 @@ package com.test;
 
 public class HelloWorld {
 	public String hello(String name) {
-		return "Hello master World, done" + name;
+		return "Hello there master World, done" + name;
 	}
 	
 	public String greetAdd(String fname, String lname) {
