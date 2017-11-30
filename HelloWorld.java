@@ -13,4 +13,8 @@ public class HelloWorld {
 	public void anotherMethod() {
 		//created originally in master
 	}
+	
+	void test1() {
+		//this is for testing
+	}
 }
