@@ -17,4 +17,8 @@ public class HelloWorld {
 	void test1() {
 		//this is for testing
 	}
+	
+	public void test2() {
+		
+	}
 }
