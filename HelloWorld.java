@@ -9,4 +9,8 @@ public class HelloWorld {
 		hello
 		return "Hello World, " + fname + " " + lname;
 	}	
+	
+	public void anotherMethod() {
+		//created originally in master
+	}
 }
