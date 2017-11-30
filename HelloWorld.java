@@ -9,4 +9,8 @@ public class HelloWorld {
 		hello
 		return "Hello World, " + fname + " " + lname;
 	}	
+	
+	void test1() {
+		//this is for testing
+	}
 }
